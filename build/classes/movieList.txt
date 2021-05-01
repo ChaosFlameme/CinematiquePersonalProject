@@ -1,0 +1,13 @@
+Fight Club,DVD,550
+La La Land,Blu-Ray,313369
+Full Metal Jacket,Numérique,600
+The Godfather,DVD,238
+Doom: Annihilation,DVD,520901
+Les Misérables,DVD,586863
+Les Miserables,DVD,48750
+Let the Bullets Fly,Numérique,51533
+Seven Samurai: Origins and Influences,Autre,535470
+A Clockwork Orange,Blu-Ray,185
+Pulp Fiction,Blu-Ray,680
+Django Unchained,Numérique,68718
+Iron Man,Autre,1726

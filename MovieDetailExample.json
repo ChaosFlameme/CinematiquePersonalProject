@@ -1,0 +1,90 @@
+{
+  "original_language": "en",
+  "imdb_id": "tt0137523",
+  "video": false,
+  "title": "Fight Club",
+  "backdrop_path": "/rr7E0NoGKxvbkb89eR1GwfoYjpA.jpg",
+  "revenue": 100853753,
+  "genres": [
+    {
+      "name": "Drama",
+      "id": 18
+    }
+  ],
+  "popularity": 45.409,
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "id": 550,
+  "vote_count": 21547,
+  "budget": 63000000,
+  "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+  "original_title": "Fight Club",
+  "runtime": 139,
+  "poster_path": "/8kNruSfhk5IoE4eZOc4UpvDn6tq.jpg",
+  "spoken_languages": [
+    {
+      "name": "English",
+      "iso_639_1": "en",
+      "english_name": "English"
+    }
+  ],
+  "production_companies": [
+    {
+      "logo_path": "/7PzJdsLGlR7oW4J0J5Xcd0pHGRg.png",
+      "name": "Regency Enterprises",
+      "id": 508,
+      "origin_country": "US"
+    },
+    {
+      "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+      "name": "Fox 2000 Pictures",
+      "id": 711,
+      "origin_country": "US"
+    },
+    {
+      "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+      "name": "Taurus Film",
+      "id": 20555,
+      "origin_country": "DE"
+    },
+    {
+      "logo_path": null,
+      "name": "Atman Entertainment",
+      "id": 54051,
+      "origin_country": ""
+    },
+    {
+      "logo_path": null,
+      "name": "Knickerbocker Films",
+      "id": 54052,
+      "origin_country": "US"
+    },
+    {
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "id": 25,
+      "origin_country": "US"
+    },
+    {
+      "logo_path": "/A32wmjrs9Psf4zw0uaixF0GXfxq.png",
+      "name": "The Linson Company",
+      "id": 4700,
+      "origin_country": "US"
+    }
+  ],
+  "release_date": "1999-10-15",
+  "vote_average": 8.4,
+  "belongs_to_collection": null,
+  "tagline": "Mischief. Mayhem. Soap.",
+  "adult": false,
+  "homepage": "http://www.foxmovies.com/movies/fight-club",
+  "status": "Released"
+}
